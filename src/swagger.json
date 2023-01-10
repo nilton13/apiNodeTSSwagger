@@ -1,0 +1,12 @@
+{
+  "openapi": "3.0.3",
+  "info":{
+    "title": "Api TypeScript Documentation",
+    "description": "Api TypeScript Documentation with all specifications",
+    "version": "1.0.0",
+    "contact":{
+      "name": "NfDeveloper",
+      "email": "nfdeveloper04@gmail.com"
+    }
+  }
+}
